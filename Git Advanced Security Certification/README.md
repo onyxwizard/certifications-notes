@@ -18,13 +18,13 @@ Each section builds upon the last, helping you prepare for Microsoft Learn certi
 Start your journey with core GitHub concepts including Git, repositories, Markdown, and tools like GitHub Copilot and Codespaces.
 
 | Module Title | Time | Status |
-|--------------|------|--------|
+|--------------|------|:--------:|
 | [![](https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg)](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)    **Introduction to Git** | 31 min | ✅ Done |
-| [![](https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)    **Introduction to GitHub** | 1 hr 39 min | 📖 In Progress |
-| [![](https://learn.microsoft.com/en-us/training/achievements/github-introduction-products.svg)](https://learn.microsoft.com/en-us/training/modules/github-introduction-products/)    **Introduction to GitHub's products** | 32 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-code-scanning/)    **Configure code scanning on GitHub** | 33 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)    **Introduction to GitHub Copilot** | 19 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/code-with-github-codespaces/)    **Code with GitHub Codespaces** | 27 min | 🛑 Not Started |
+| [![](https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)    **Introduction to GitHub** | 1 hr 39 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/github-introduction-products.svg)](https://learn.microsoft.com/en-us/training/modules/github-introduction-products/)    **Introduction to GitHub's products** | 32 min | ✅ Done|
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-code-scanning/)    **Configure code scanning on GitHub** | 33 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)    **Introduction to GitHub Copilot** | 19 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/code-with-github-codespaces/)    **Code with GitHub Codespaces** | 27 min | 📖 In Progress |
 | [![](https://learn.microsoft.com/en-us/training/achievements/manage-work-github-projects.svg)](https://learn.microsoft.com/en-us/training/modules/manage-work-github-projects/)    **Manage your work with GitHub Projects** | 36 min | 🛑 Not Started |
 | [![](https://learn.microsoft.com/en-us/training/achievements/github/communicate-using-markdown.svg)](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)    **Communicate effectively on GitHub using Markdown** | 1 hr 6 min | 🛑 Not Started |
 
