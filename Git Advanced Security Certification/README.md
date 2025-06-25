@@ -24,9 +24,9 @@ Start your journey with core GitHub concepts including Git, repositories, Markdo
 | [![](https://learn.microsoft.com/en-us/training/achievements/github-introduction-products.svg)](https://learn.microsoft.com/en-us/training/modules/github-introduction-products/)    **Introduction to GitHub's products** | 32 min | ✅ Done|
 | [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-code-scanning/)    **Configure code scanning on GitHub** | 33 min | ✅ Done |
 | [![](https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)    **Introduction to GitHub Copilot** | 19 min | ✅ Done |
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/code-with-github-codespaces/)    **Code with GitHub Codespaces** | 27 min | 📖 In Progress |
-| [![](https://learn.microsoft.com/en-us/training/achievements/manage-work-github-projects.svg)](https://learn.microsoft.com/en-us/training/modules/manage-work-github-projects/)    **Manage your work with GitHub Projects** | 36 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/github/communicate-using-markdown.svg)](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)    **Communicate effectively on GitHub using Markdown** | 1 hr 6 min | 🛑 Not Started |
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/code-with-github-codespaces/)    **Code with GitHub Codespaces** | 27 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/manage-work-github-projects.svg)](https://learn.microsoft.com/en-us/training/modules/manage-work-github-projects/)    **Manage your work with GitHub Projects** | 36 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/github/communicate-using-markdown.svg)](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)    **Communicate effectively on GitHub using Markdown** | 1 hr 6 min | ✅ Done |
 
 🏁 **Total XP:** 6300  
 ⏳ **Total Time:** ~5 hours 49 minutes
@@ -39,8 +39,8 @@ Start your journey with core GitHub concepts including Git, repositories, Markdo
 Deepen your understanding of collaboration, repository management, and contribution workflows.
 
 | Module Title | Time | Status |
-|--------------|------|--------|
-| [![](https://learn.microsoft.com/en-us/training/achievements/github/contribute-to-an-open-source-project-on-github.svg)](https://learn.microsoft.com/en-us/training/modules/contribute-open-source/)    **Contribute to an open-source project on GitHub** | 27 min | 🛑 Not Started |
+|--------------|------|:--------:|
+| [![](https://learn.microsoft.com/en-us/training/achievements/github/contribute-to-an-open-source-project-on-github.svg)](https://learn.microsoft.com/en-us/training/modules/contribute-open-source/)    **Contribute to an open-source project on GitHub** | 27 min | 📖 In Progress |
 | [![](https://learn.microsoft.com/en-us/training/achievements/github/manage-innersource-program-github.svg)](https://learn.microsoft.com/en-us/training/modules/manage-innersource-program-github/)    **Manage an InnerSource program by using GitHub** | 50 min | 🛑 Not Started |
 | [![](https://learn.microsoft.com/en-us/training/achievements/github/maintain-secure-repository-github.svg)](https://learn.microsoft.com/en-us/training/modules/maintain-secure-repository-github/)    **Maintain a secure repository by using GitHub best practices** | 35 min | 🛑 Not Started |
 | [<img src="https://learn.microsoft.com/en-us/training/achievements/github-introduction-administration.svg"  width="100" alt="Introduction to GitHub administration badge">](https://learn.microsoft.com/en-us/training/modules/github-introduction-administration/)    **Introduction to GitHub administration** | 36 min | 🛑 Not Started |
@@ -60,7 +60,7 @@ Deepen your understanding of collaboration, repository management, and contribut
 Learn how to use GitHub’s built-in security tools to keep your codebase safe and compliant.
 
 | Module Title | Time | Status |
-|--------------|------|--------|
+|--------------|------|:--------:|
 | [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-github-advanced-security/)    **Introduction to GitHub Advanced Security** | 26 min | 🛑 Not Started |
 | [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-dependabot-security-updates-on-github-repo/)    **Configure Dependabot security updates on your GitHub repo** | 36 min | 🛑 Not Started |
 | [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-use-secret-scanning-github-repository/)    **Configure and use secret scanning in your GitHub repository** | 28 min | 🛑 Not Started |
@@ -77,7 +77,7 @@ Learn how to use GitHub’s built-in security tools to keep your codebase safe a
 Dive into more advanced topics such as CodeQL, enterprise-level security policies, and managing sensitive data at scale.
 
 | Module Title | Time | Status |
-|--------------|------|--------|
+|--------------|------|:--------:|
 | [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/codebase-representation-codeql/)    **Identify security vulnerabilities in your codebase by using CodeQL** | 33 min | 🛑 Not Started |
 | [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/code-scanning-with-github-codeql/)    **Code scanning with GitHub CodeQL** | 1 hr 21 min | 🛑 Not Started |
 | [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/github-administration-github-advanced-security/)    **GitHub administration for GitHub Advanced Security** | 21 min | 🛑 Not Started |
