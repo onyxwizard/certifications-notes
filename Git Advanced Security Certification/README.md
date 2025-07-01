@@ -40,14 +40,14 @@ Deepen your understanding of collaboration, repository management, and contribut
 
 | Module Title | Time | Status |
 |--------------|------|:--------:|
-| [![](https://learn.microsoft.com/en-us/training/achievements/github/contribute-to-an-open-source-project-on-github.svg)](https://learn.microsoft.com/en-us/training/modules/contribute-open-source/)    **Contribute to an open-source project on GitHub** | 27 min | 📖 In Progress |
-| [![](https://learn.microsoft.com/en-us/training/achievements/github/manage-innersource-program-github.svg)](https://learn.microsoft.com/en-us/training/modules/manage-innersource-program-github/)    **Manage an InnerSource program by using GitHub** | 50 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/github/maintain-secure-repository-github.svg)](https://learn.microsoft.com/en-us/training/modules/maintain-secure-repository-github/)    **Maintain a secure repository by using GitHub best practices** | 35 min | 🛑 Not Started |
-| [<img src="https://learn.microsoft.com/en-us/training/achievements/github-introduction-administration.svg"  width="100" alt="Introduction to GitHub administration badge">](https://learn.microsoft.com/en-us/training/modules/github-introduction-administration/)    **Introduction to GitHub administration** | 36 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/github/authenticate-authorize-user-identities-github.svg)](https://learn.microsoft.com/en-us/training/modules/authenticate-authorize-user-identities-github/)    **Authenticate and authorize user identities on GitHub** | 33 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/github/manage-changes-pull-requests-github.svg)](https://learn.microsoft.com/en-us/training/modules/manage-changes-pull-requests-github/)    **Manage repository changes by using pull requests on GitHub** | 56 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/github/search-organize-repository-history-github.svg)](https://learn.microsoft.com/en-us/training/modules/search-organize-repository-history-github/)    **Search and organize repository history by using GitHub** | 38 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/)    **Using GitHub Copilot with Python** | 22 min | 🛑 Not Started |
+| [![](https://learn.microsoft.com/en-us/training/achievements/github/contribute-to-an-open-source-project-on-github.svg)](https://learn.microsoft.com/en-us/training/modules/contribute-open-source/)    **Contribute to an open-source project on GitHub** | 27 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/github/manage-innersource-program-github.svg)](https://learn.microsoft.com/en-us/training/modules/manage-innersource-program-github/)    **Manage an InnerSource program by using GitHub** | 50 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/github/maintain-secure-repository-github.svg)](https://learn.microsoft.com/en-us/training/modules/maintain-secure-repository-github/)    **Maintain a secure repository by using GitHub best practices** | 35 min | ✅ Done |
+| [<img src="https://learn.microsoft.com/en-us/training/achievements/github-introduction-administration.svg"  width="100" alt="Introduction to GitHub administration badge">](https://learn.microsoft.com/en-us/training/modules/github-introduction-administration/)    **Introduction to GitHub administration** | 36 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/github/authenticate-authorize-user-identities-github.svg)](https://learn.microsoft.com/en-us/training/modules/authenticate-authorize-user-identities-github/)    **Authenticate and authorize user identities on GitHub** | 33 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/github/manage-changes-pull-requests-github.svg)](https://learn.microsoft.com/en-us/training/modules/manage-changes-pull-requests-github/)    **Manage repository changes by using pull requests on GitHub** | 56 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/github/search-organize-repository-history-github.svg)](https://learn.microsoft.com/en-us/training/modules/search-organize-repository-history-github/)    **Search and organize repository history by using GitHub** | 38 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/)    **Using GitHub Copilot with Python** | 22 min | ✅ Done |
 
 🏁 **Total XP:** 5900  
 ⏳ **Total Time:** ~4 hours 37 minutes
@@ -61,7 +61,7 @@ Learn how to use GitHub’s built-in security tools to keep your codebase safe a
 
 | Module Title | Time | Status |
 |--------------|------|:--------:|
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-github-advanced-security/)    **Introduction to GitHub Advanced Security** | 26 min | 🛑 Not Started |
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-github-advanced-security/)    **Introduction to GitHub Advanced Security** | 26 min | 📖 In Progress |
 | [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-dependabot-security-updates-on-github-repo/)    **Configure Dependabot security updates on your GitHub repo** | 36 min | 🛑 Not Started |
 | [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-use-secret-scanning-github-repository/)    **Configure and use secret scanning in your GitHub repository** | 28 min | 🛑 Not Started |
 | [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-code-scanning/)    **Configure code scanning on GitHub** | 33 min | 🛑 Not Started |
