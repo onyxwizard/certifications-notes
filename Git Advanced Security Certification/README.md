@@ -61,10 +61,10 @@ Learn how to use GitHub’s built-in security tools to keep your codebase safe a
 
 | Module Title | Time | Status |
 |--------------|------|:--------:|
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-github-advanced-security/)    **Introduction to GitHub Advanced Security** | 26 min | 📖 In Progress |
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-dependabot-security-updates-on-github-repo/)    **Configure Dependabot security updates on your GitHub repo** | 36 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-use-secret-scanning-github-repository/)    **Configure and use secret scanning in your GitHub repository** | 28 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-code-scanning/)    **Configure code scanning on GitHub** | 33 min | 🛑 Not Started |
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/introduction-github-advanced-security/)    **Introduction to GitHub Advanced Security** | 26 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-dependabot-security-updates-on-github-repo/)    **Configure Dependabot security updates on your GitHub repo** | 36 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-use-secret-scanning-github-repository/)    **Configure and use secret scanning in your GitHub repository** | 28 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/configure-code-scanning/)    **Configure code scanning on GitHub** | 33 min | ✅ Done |
 
 🏁 **Total XP:** 3300  
 ⏳ **Total Time:** ~2 hours 3 minutes
@@ -78,10 +78,10 @@ Dive into more advanced topics such as CodeQL, enterprise-level security policie
 
 | Module Title | Time | Status |
 |--------------|------|:--------:|
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/codebase-representation-codeql/)    **Identify security vulnerabilities in your codebase by using CodeQL** | 33 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/code-scanning-with-github-codeql/)    **Code scanning with GitHub CodeQL** | 1 hr 21 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/github-administration-github-advanced-security/)    **GitHub administration for GitHub Advanced Security** | 21 min | 🛑 Not Started |
-| [![](https://learn.microsoft.com/en-us/training/achievements/manage-sensitive-data-security-policies.svg)](https://learn.microsoft.com/en-us/training/modules/manage-sensitive-data-security-policies/)    **Manage sensitive data and security policies within GitHub** | 1 hr 36 min | 🛑 Not Started |
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/codebase-representation-codeql/)    **Identify security vulnerabilities in your codebase by using CodeQL** | 33 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/code-scanning-with-github-codeql/)    **Code scanning with GitHub CodeQL** | 1 hr 21 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/training/modules/github-administration-github-advanced-security/)    **GitHub administration for GitHub Advanced Security** | 21 min | ✅ Done |
+| [![](https://learn.microsoft.com/en-us/training/achievements/manage-sensitive-data-security-policies.svg)](https://learn.microsoft.com/en-us/training/modules/manage-sensitive-data-security-policies/)    **Manage sensitive data and security policies within GitHub** | 1 hr 36 min | ✅ Done |
 
 🏁 **Total XP:** 3800  
 ⏳ **Total Time:** ~3 hours 51 minutes
